@@ -36,7 +36,7 @@
 ],
 "Networks": [
 {
-   "Name": "🟣VIVO GCLOUD 1b",
+   "Name": "🟣VIVO GCLOUD 1",
    "FLAG": "vivo",
    "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=roms.cdnespecial.shop;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
    "SNI": "roms.cdnespecial.shop",
