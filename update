@@ -1,5 +1,5 @@
 {
-"Version": "1.16",
+"Version": "1.17",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações adicionadas⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/laureci322/conecta4g/refs/heads/main/update",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -38,8 +38,8 @@
 {
    "Name": "🟣VIVO GCLOUD 1",
    "FLAG": "vivo",
-   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=roms.cdnespecial.shop;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
-   "SNI": "roms.cdnespecial.shop",
+   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=gcloud-2.centraldacdn.org;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
+   "SNI": "gcloud-2.centraldacdn.org",
    "TlsIP": "72.14.246.6",
    "ProxyIP": "72.14.246.6",
    "ProxyPort": "443",
@@ -48,7 +48,7 @@
 {
    "Name": "🟣VIVO GCLOUD 2",
    "FLAG": "vivo",
-   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=roms.cdnespecial.shop;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
+   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=gcloud-2.centraldacdn.org;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
    "SNI": "gcloud-1.centraldacdn.org",
    "TlsIP": "72.14.246.6",
    "ProxyIP": "72.14.246.6",
@@ -550,8 +550,8 @@
 {
    "Name": "🔵TIM GCLOUD 1",
    "FLAG": "tim",
-   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=roms.cdnespecial.shop;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
-   "SNI": "roms.cdnespecial.shop",
+   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=gcloud-2.centraldacdn.org;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
+   "SNI": "gcloud-2.centraldacdn.org",
    "TlsIP": "72.14.246.6",
    "ProxyIP": "72.14.246.6",
    "ProxyPort": "443",
@@ -560,7 +560,7 @@
 {
    "Name": "🔵TIM GCLOUD 2",
    "FLAG": "tim",
-   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=roms.cdnespecial.shop;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
+   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=gcloud-2.centraldacdn.org;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
    "SNI": "gcloud-1.centraldacdn.org",
    "TlsIP": "72.14.246.6",
    "ProxyIP": "72.14.246.6",
@@ -590,7 +590,7 @@
 {
 "Name": "💙TIM NOVO HORIZONTE",
 "FLAG": "tim",
-"Payload": "HEAD / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split][crlf][crlf]GET- / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf][lf]GET / HTTP/1.1[crlf]Host: [rotate=roms.cdnespecial.shop;gcloud-1.centraldacdn.org]][lf]Backend: app127[lf]Connection:  Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googl/ebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
+"Payload": "HEAD / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split][crlf][crlf]GET- / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf][lf]GET / HTTP/1.1[crlf]Host: [rotate=gcloud-2.centraldacdn.org;gcloud-1.centraldacdn.org]][lf]Backend: app127[lf]Connection:  Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googl/ebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
 "SNI": "",
 "TlsIP": "13.227.126.40",
 "ProxyIP": "13.227.126.40",
@@ -600,7 +600,7 @@
 {
 "Name": "💙TIM NOVO HORIZONTE 2",
 "FLAG": "tim",
-"Payload": "HEAD / HTTP/1.1[crlf]Host: trocadecartao.timcontrole.m4u.com.br[crlf][crlf][split][crlf][crlf]GET- / HTTP/1.1[crlf]Host: trocadecartao.timcontrole.m4u.com.br[lf][lf]GET / HTTP/1.1[crlf]Host: [rotate=roms.cdnespecial.shop;gcloud-1.centraldacdn.org]][lf]Backend: app127[lf]Connection:  Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googl/ebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
+"Payload": "HEAD / HTTP/1.1[crlf]Host: trocadecartao.timcontrole.m4u.com.br[crlf][crlf][split][crlf][crlf]GET- / HTTP/1.1[crlf]Host: trocadecartao.timcontrole.m4u.com.br[lf][lf]GET / HTTP/1.1[crlf]Host: [rotate=gcloud-2.centraldacdn.org;gcloud-1.centraldacdn.org]][lf]Backend: app127[lf]Connection:  Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googl/ebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
 "SNI": "",
 "TlsIP": "trocadecartao.timcontrole.m4u.com.br",
 "ProxyIP": "trocadecartao.timcontrole.m4u.com.br",
@@ -1441,8 +1441,8 @@
 {
    "Name": "🔴CLARO GCLOUD 1",
    "FLAG": "tim",
-   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=roms.cdnespecial.shop;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
-   "SNI": "roms.cdnespecial.shop",
+   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=gcloud-2.centraldacdn.org;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
+   "SNI": "gcloud-2.centraldacdn.org",
    "TlsIP": "72.14.246.6",
    "ProxyIP": "72.14.246.6",
    "ProxyPort": "443",
@@ -1451,7 +1451,7 @@
 {
    "Name": "🔴CLARO GCLOUD 2",
    "FLAG": "tim",
-   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=roms.cdnespecial.shop;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
+   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=gcloud-2.centraldacdn.org;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
    "SNI": "gcloud-1.centraldacdn.org",
    "TlsIP": "72.14.246.6",
    "ProxyIP": "72.14.246.6",
