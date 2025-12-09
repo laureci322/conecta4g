@@ -38,14 +38,7 @@
 {
    "Name": "🟣VIVO GCLOUD 1b",
    "FLAG": "vivo",
-   "Payload": "GET /app127 HTTP/1.1
-Host: [host]
-Connection: Upgrade
-Upgrade: Websocket[crlf][crlf]#GET /app127 HTTP/1.1
-Host:gcloud-2.centraldacdn.org
-Connection: Upgrade
-Upgrade: websocket
-User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]#GET /app127 HTTP/1.1[crlf]Host:gcloud-2.centraldacdn.org[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+   "Payload": "GET /app127 HTTP/1.1 Host: [host] Connection: Upgrade Upgrade: Websocket[crlf][crlf]#GET /app127 HTTP/1.1 Host:gcloud-2.centraldacdn.org Connection: Upgrade Upgrade: websocket User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]#GET /app127 HTTP/1.1[crlf]Host:gcloud-2.centraldacdn.org[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
    "SNI": "s0.2mdn.net",
    "TlsIP": "172.217.172.38",
    "ProxyIP": "gcloud-2.centraldacdn.org",
