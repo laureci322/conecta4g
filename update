@@ -38,7 +38,7 @@
 {
    "Name": "🟣VIVO GCLOUD 1b",
    "FLAG": "vivo",
-   "Payload": "GET /127 HTTP/1.1[crlf]Host: [rotate=denji-499892478876.us-east1.run.app;satoru-1087791971072.us-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
+   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=denji-499892478876.us-east1.run.app;satoru-1087791971072.us-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
    "SNI": "s0.2mdn.net",
    "TlsIP": "172.217.172.38",
    "ProxyIP": "denji-499892478876.us-east1.run.app",
