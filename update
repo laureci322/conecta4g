@@ -1,5 +1,5 @@
 {
-"Version": "1.27",
+"Version": "1.28",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações adicionadas⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/laureci322/conecta4g/refs/heads/main/update",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -36,22 +36,22 @@
 ],
 "Networks": [
 {
-   "Name": "🟣test",
+   "Name": "🟣testb",
    "FLAG": "vivo",
-   "Payload": "GET / HTTP/1.1[crlf]Host: serv4.azion.app[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]X-Real-IP: [host][crlf][crlf]",
+   "Payload": "GET / HTTP/1.1[crlf]Host: serv4.painelvip6.shop[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]X-Real-IP: [host][crlf][crlf]",
    "SNI": "",
-   "TlsIP": "",
-   "ProxyIP": "104.21.18.19",
+   "TlsIP": "104.21.18.19",
+   "ProxyIP": "204.216.140.202",
    "ProxyPort": "80",
    "Info": "Proxy"
 },
 {
    "Name": "🟣test 2",
    "FLAG": "vivo",
-   "Payload": "GET / HTTP/1.1[crlf]Host: serv4.azion.app[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]X-Real-IP: [host][crlf][crlf]",
+   "Payload": "GET / HTTP/1.1[crlf]Host: serv4.painelvip6.shop[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]X-Real-IP: [host][crlf][crlf]",
    "SNI": "",
-   "TlsIP": "",
-   "ProxyIP": "172.67.179.160",
+   "TlsIP": "172.67.179.160",
+   "ProxyIP": "204.216.140.202",
    "ProxyPort": "80",
    "Info": "Proxy"
 },
