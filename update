@@ -1,5 +1,5 @@
 {
-"Version": "1.25",
+"Version": "1.26",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações adicionadas⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/laureci322/conecta4g/refs/heads/main/update",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -35,6 +35,16 @@
 },
 ],
 "Networks": [
+{
+   "Name": "🟣VIVO EASY E CONTROLE",
+   "FLAG": "vivo",
+   "Payload": "ACL /cdn/cgi/trace/ HTTP/1.1[crlf]Host: serv4.painelvip6.shop[crlf]MATT / HTTP/1.1[crlf]Host: sub.painelvip6.shop[crlf]Content-Length: 1985110717[crlf]User-Agent: DarkPremium/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/604.1OPR/20.0.1396.72047[crlf] [crlf]",
+   "SNI": "",
+   "TlsIP": "1",
+   "ProxyIP": "sub.painelvip6.shop",
+   "ProxyPort": "80",
+   "Info": "Proxy"
+},
 {
    "Name": "🟣VIVO GCLOUD 1",
    "FLAG": "vivo",
