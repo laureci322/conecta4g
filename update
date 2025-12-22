@@ -1,5 +1,5 @@
 {
-"Version": "1.30",
+"Version": "1.31",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações adicionadas⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/laureci322/conecta4g/refs/heads/main/update",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -48,7 +48,7 @@
 {
    "Name": "🟣VIVO GCLOUD 1",
    "FLAG": "vivo",
-   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=denji-375681954824.southamerica-east1.run.app;satoru-1087791971072.us-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
+   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=denji-375681954824.southamerica-east1.run.app;satoru-278238034674.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
    "SNI": "s0.2mdn.net",
    "TlsIP": "172.217.172.38",
    "ProxyIP": "denji-375681954824.southamerica-east1.run.app",
@@ -58,20 +58,20 @@
 {
    "Name": "🟣VIVO GCLOUD 2b",
    "FLAG": "vivo",
-   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=denji-375681954824.southamerica-east1.run.app;satoru-1087791971072.us-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
+   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=denji-375681954824.southamerica-east1.run.app;satoru-278238034674.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
    "SNI": "s0.2mdn.net",
    "TlsIP": "172.217.172.38",
-   "ProxyIP": "satoru-1087791971072.us-east1.run.app",
+   "ProxyIP": "satoru-278238034674.southamerica-east1.run.app",
    "ProxyPort": "443",
    "Info": "Tlsws"
 },
 {
    "Name": "🟣VIVO GCLOUD 3",
    "FLAG": "vivo",
-   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=denji-375681954824.southamerica-east1.run.app;satoru-1087791971072.us-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
+   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=denji-375681954824.southamerica-east1.run.app;satoru-278238034674.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
    "SNI": "172.217.172.38",
    "TlsIP": "172.217.172.38",
-   "ProxyIP": "satoru-1087791971072.us-east1.run.app",
+   "ProxyIP": "satoru-278238034674.southamerica-east1.run.app",
    "ProxyPort": "443",
    "Info": "Tlsws"
 },
