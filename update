@@ -137,7 +137,7 @@
 },
 {
    "Name": "🟣EASY, PRE PAGO E CONTROLE 4",
-   "FLAG": "tim",
+   "FLAG": "vivo",
    "Payload": "GET /proxy HTTP/1.1[lf]Host: serv4.painelvip6.shop[lf]Upgrade: websocket[lf][lf]",
    "SNI": "",
    "TlsIP": "",
