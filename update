@@ -1,5 +1,5 @@
 {
-"Version": "1.31",
+"Version": "1.32",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações adicionadas⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/laureci322/conecta4g/refs/heads/main/update",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -570,22 +570,22 @@
 {
    "Name": "🔵TIM GCLOUD 1",
    "FLAG": "tim",
-   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=gcloud-2.centraldacdn.org;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
-   "SNI": "gcloud-2.centraldacdn.org",
-   "TlsIP": "72.14.246.6",
-   "ProxyIP": "72.14.246.6",
-   "ProxyPort": "443",
-   "Info": "Tlsws"
+   "Payload": "GET /proxy HTTP/1.1[lf]Host: serv4.painelvip6.shop[lf]Upgrade: websocket[lf][lf]",
+   "SNI": "",
+   "TlsIP": "",
+   "ProxyIP": "162.247.241.4",
+   "ProxyPort": "80",
+   "Info": "proxy"
 },
 {
    "Name": "🔵TIM GCLOUD 2",
    "FLAG": "tim",
-   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=gcloud-2.centraldacdn.org;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
-   "SNI": "gcloud-1.centraldacdn.org",
-   "TlsIP": "72.14.246.6",
-   "ProxyIP": "72.14.246.6",
-   "ProxyPort": "443",
-   "Info": "Tlsws"
+   "Payload": "GET /proxy HTTP/1.1[lf]Host: serv4.painelvip6.shop[lf]Upgrade: websocket[lf][lf]",
+   "SNI": "",
+   "TlsIP": "",
+   "ProxyIP": "162.247.241.4",
+   "ProxyPort": "80",
+   "Info": "proxy"
 },
 {  
       "Name": "🔵Tim Extraido 01",
