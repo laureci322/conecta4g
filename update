@@ -1,5 +1,5 @@
 {
-"Version": "1.36",
+"Version": "1.37",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações adicionadas⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/laureci322/conecta4g/refs/heads/main/update",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -32,7 +32,7 @@
 "SSLPort": "443",
 "USER": "",
 "PASS": ""
-},
+}
 ],
 "Networks": [
 {
@@ -1660,6 +1660,6 @@
  "ProxyPort": "80",
  "Flag":"ic_c.png",
  "Info": "Ssl"
-},
+}
 ]
 }
