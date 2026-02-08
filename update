@@ -1,5 +1,5 @@
 {
-"Version": "1.60",
+"Version": "1.61",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações adicionadas⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/laureci322/conecta4g/refs/heads/main/update",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -50,7 +50,7 @@
    "FLAG": "vivo",
    "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=googlecloud-762395423839.southamerica-east1.run.app#centraldacdn-700311632906.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
    "SNI": "s0.2mdn.net",
-   "TlsIP": "172.217.172.38",
+   "TlsIP": "142.251.163.149",
    "ProxyIP": "googlecloud-762395423839.southamerica-east1.run.app",
    "ProxyPort": "443",
    "Info": "Tlsws"
@@ -60,7 +60,7 @@
    "FLAG": "vivo",
    "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=googlecloud-762395423839.southamerica-east1.run.app#centraldacdn-700311632906.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
    "SNI": "s0.2mdn.net",
-   "TlsIP": "172.217.172.38",
+   "TlsIP": "142.251.163.148",
    "ProxyIP": "googlecloud-762395423839.southamerica-east1.run.app",
    "ProxyPort": "443",
    "Info": "Tlsws"
@@ -69,8 +69,8 @@
    "Name": "🟣VIVO GCLOUD 3",
    "FLAG": "vivo",
    "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=googlecloud-762395423839.southamerica-east1.run.app#centraldacdn-700311632906.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
-   "SNI": "172.217.172.38",
-   "TlsIP": "172.217.172.38",
+   "SNI": "142.250.72.6",
+   "TlsIP": "142.250.72.6",
    "ProxyIP": "googlecloud-762395423839.southamerica-east1.run.app",
    "ProxyPort": "443",
    "Info": "Tlsws"
