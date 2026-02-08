@@ -1,5 +1,5 @@
 {
-"Version": "1.59",
+"Version": "1.60",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações adicionadas⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/laureci322/conecta4g/refs/heads/main/update",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -74,6 +74,16 @@
    "ProxyIP": "googlecloud-762395423839.southamerica-east1.run.app",
    "ProxyPort": "443",
    "Info": "Tlsws"
+},
+{
+"Name": "🟣PRE PAGO 0",
+"FLAG": "vivo",
+"Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[random= 142.251.163.149;142.251.163.148;142.250.72.6;177.87.57.246][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "::ffff:ccd8:8cca",
+"ProxyPort": "80",
+"Info": "Proxy"
 },
 {
 "Name": "🟣PRE PAGO 1",
