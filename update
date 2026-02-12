@@ -48,7 +48,7 @@
 {
    "Name": "🟣VIVO GCLOUD 1",
    "FLAG": "vivo",
-   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=googlecloud-532861177450.southamerica-east1.run.app;centraldacdn-700311632906.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
+   "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=centraldacdn-886459127945.southamerica-east1.run.app#system-44078430897.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
    "SNI": "youtube.com",
    "TlsIP": "youtube.com",
    "ProxyIP": "googlecloud-532861177450.southamerica-east1.run.app",
@@ -59,8 +59,8 @@
    "Name": "🟣VIVO GCLOUD 2b",
    "FLAG": "vivo",
    "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=googlecloud-532861177450.southamerica-east1.run.app;centraldacdn-700311632906.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
-   "SNI": "s0.2mdn.net",
-   "TlsIP": "142.251.163.148",
+   "SNI": "youtube.com",
+   "TlsIP": "youtube.com",
    "ProxyIP": "googlecloud-532861177450.southamerica-east1.run.app",
    "ProxyPort": "443",
    "Info": "Tlsws"
