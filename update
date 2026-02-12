@@ -1,5 +1,5 @@
 {
-"Version": "1.67",
+"Version": "1.68",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações adicionadas⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/laureci322/conecta4g/refs/heads/main/update",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -49,8 +49,8 @@
    "Name": "🟣VIVO GCLOUD 1",
    "FLAG": "vivo",
    "Payload": "GET /app127 HTTP/1.1[crlf]Host: [rotate=googlecloud-532861177450.southamerica-east1.run.app;centraldacdn-700311632906.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf][crlf]",
-   "SNI": "s0.2mdn.net",
-   "TlsIP": "142.251.163.149",
+   "SNI": "youtube.com",
+   "TlsIP": "youtube.com",
    "ProxyIP": "googlecloud-532861177450.southamerica-east1.run.app",
    "ProxyPort": "443",
    "Info": "Tlsws"
